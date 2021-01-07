@@ -1,0 +1,77 @@
+[
+	{
+		"OffenseParentName" : "ANIMAL CRUELTY"
+	},
+	{
+		"OffenseParentName" : "ARSON"
+	},
+	{
+		"OffenseParentName" : "ASSAULT OFFENSES"
+	},
+	{
+		"OffenseParentName" : "BAD CHECKS"
+	},
+	{
+		"OffenseParentName" : "BRIBERY"
+	},
+	{
+		"OffenseParentName" : "BURGLARY/BREAKING&ENTERING"
+	},
+	{
+		"OffenseParentName" : "COUNTERFEITING/FORGERY"
+	},
+	{
+		"OffenseParentName" : "CURFEW/LOITERING/VAGRANCY VIOLATIONS"
+	},
+	{
+		"OffenseParentName" : "DESTRUCTION/DAMAGE/VANDALISM OF PROPERTY"
+	},
+	{
+		"OffenseParentName" : "DRIVING UNDER THE INFLUENCE"
+	},
+	{
+		"OffenseParentName" : "DRUG/NARCOTIC OFFENSES"
+	},
+	{
+		"OffenseParentName" : "DRUNKENNESS"
+	},
+	{
+		"OffenseParentName" : "EMBEZZLEMENT"
+	},
+	{
+		"OffenseParentName" : "EXTORTION/BLACKMAIL"
+	},
+	{
+		"OffenseParentName" : "FRAUD OFFENSES"
+	},
+	{
+		"OffenseParentName" : "GAMBLING OFFENSES"
+	},
+	{
+		"OffenseParentName" : "LARCENY-THEFT"
+	},
+	{
+		"OffenseParentName" : "LIQUOR LAW VIOLATIONS"
+	},
+	{
+		"OffenseParentName" : "MOTOR VEHICLE THEFT"
+	},
+	{
+		"OffenseParentName" : "PORNOGRAPHY/OBSCENE MATERIAL"
+	},
+	{
+		"OffenseParentName" : "PROSTITUTION OFFENSES"
+	},
+	{
+		"OffenseParentName" : "ROBBERY"
+	},
+	{
+		"OffenseParentName" : "STOLEN PROPERTY OFFENSES"
+	},
+	{
+		"OffenseParentName" : "TRESPASS OF REAL PROPERTY"
+	},
+	{
+		"OffenseParentName" : "WEAPON LAW VIOLATIONS"
+	}
+]

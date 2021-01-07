@@ -1,0 +1,137 @@
+[
+	{
+		"OffenseName" : "Aggravated Assault"
+	},
+	{
+		"OffenseName" : "All Other Larceny"
+	},
+	{
+		"OffenseName" : "Animal Cruelty"
+	},
+	{
+		"OffenseName" : "Arson"
+	},
+	{
+		"OffenseName" : "Assisting or Promoting Prostitution"
+	},
+	{
+		"OffenseName" : "Bad Checks"
+	},
+	{
+		"OffenseName" : "Betting/Wagering"
+	},
+	{
+		"OffenseName" : "Bribery"
+	},
+	{
+		"OffenseName" : "Burglary/Breaking & Entering"
+	},
+	{
+		"OffenseName" : "Counterfeiting/Forgery"
+	},
+	{
+		"OffenseName" : "Credit Card/Automated Teller Machine Fraud"
+	},
+	{
+		"OffenseName" : "Curfew/Loitering/Vagrancy Violations"
+	},
+	{
+		"OffenseName" : "Destruction/Damage/Vandalism of Property"
+	},
+	{
+		"OffenseName" : "Driving Under the Influence"
+	},
+	{
+		"OffenseName" : "Drug Equipment Violations"
+	},
+	{
+		"OffenseName" : "Drug/Narcotic Violations"
+	},
+	{
+		"OffenseName" : "Drunkenness"
+	},
+	{
+		"OffenseName" : "Embezzlement"
+	},
+	{
+		"OffenseName" : "Extortion/Blackmail"
+	},
+	{
+		"OffenseName" : "False Pretenses/Swindle/Confidence Game"
+	},
+	{
+		"OffenseName" : "Gambling Equipment Violation"
+	},
+	{
+		"OffenseName" : "Hacking/Computer Invasion"
+	},
+	{
+		"OffenseName" : "Identity Theft"
+	},
+	{
+		"OffenseName" : "Impersonation"
+	},
+	{
+		"OffenseName" : "Intimidation"
+	},
+	{
+		"OffenseName" : "Liquor Law Violations"
+	},
+	{
+		"OffenseName" : "Motor Vehicle Theft"
+	},
+	{
+		"OffenseName" : "Operating/Promoting/Assisting Gambling"
+	},
+	{
+		"OffenseName" : "Pocket-picking"
+	},
+	{
+		"OffenseName" : "Pornography/Obscene Material"
+	},
+	{
+		"OffenseName" : "Prostitution"
+	},
+	{
+		"OffenseName" : "Purchasing Prostitution"
+	},
+	{
+		"OffenseName" : "Purse-snatching"
+	},
+	{
+		"OffenseName" : "Robbery"
+	},
+	{
+		"OffenseName" : "Shoplifting"
+	},
+	{
+		"OffenseName" : "Simple Assault"
+	},
+	{
+		"OffenseName" : "Stolen Property Offenses"
+	},
+	{
+		"OffenseName" : "Theft From Building"
+	},
+	{
+		"OffenseName" : "Theft From Coin-Operated Machine or Device"
+	},
+	{
+		"OffenseName" : "Theft From Motor Vehicle"
+	},
+	{
+		"OffenseName" : "Theft of Motor Vehicle Parts or Accessories"
+	},
+	{
+		"OffenseName" : "Trespass of Real Property"
+	},
+	{
+		"OffenseName" : "Weapon Law Violations"
+	},
+	{
+		"OffenseName" : "Welfare Fraud"
+	},
+	{
+		"OffenseName" : "Wire Fraud"
+	}
+]

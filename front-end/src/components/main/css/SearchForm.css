@@ -1,0 +1,44 @@
+.SearchForm {
+  position: relative;
+  background-color: beige;
+  height: 150vh;
+  padding-left:5%;
+  padding-right:5%;
+}
+.form{
+  font-size: 15px;
+  padding-top: 4%;
+  padding-left: 10%;
+  padding-right: 10%;
+  background: rgba(250, 250, 250, 0.4);
+}
+.date-picker {
+  padding-bottom: 3rem;
+  margin-left: 2rem;
+}
+.selectbox {
+  margin: 1rem;
+}
+.formControl {
+  margin: 1rem;
+  width: 100%;
+  background-color: white;
+}
+
+.date-small {
+  background-color: white;
+}
+
+.display {
+  margin: 3rem;
+  background-color: white;
+}
+
+#logo {
+  float: left;
+  margin-left: 8%;
+}
+#submit {
+  margin: 3rem;
+  font-family: 'Special Elite';
+}

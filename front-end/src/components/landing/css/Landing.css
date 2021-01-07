@@ -1,0 +1,23 @@
+.landing {
+  position: relative;
+  background: url('../../../img/landingPic.jpg') no-repeat center center/cover;
+  height: 100vh;
+}
+.search-title {
+  padding-top: 280px;
+}
+
+.search-title h1 {
+  font-size: 56px;
+  color: whitesmoke;
+}
+
+.search-title h2 {
+  margin-top: 50px;
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.search-title button {
+  margin-top: 50px;
+}
