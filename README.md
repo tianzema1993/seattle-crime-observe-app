@@ -1,5 +1,5 @@
 # seattle-crime-observe-app
-Seattle Crime Observation App
+Seattle Crime Observation App (The app can be accessed at: http://ec2-3-95-207-17.compute-1.amazonaws.com:8080)
 
 · Published a website for users to search and view time, location and trend of all crime activities in Seattle
 
